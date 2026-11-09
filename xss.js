@@ -6,8 +6,8 @@
         console.error("Error: aspnetForm not found on this page!");
     } else {
         // 2. Define the test credentials
-        let username = 'testerbahi@gmail.com';
-        let password = 'Pass@123.0@##';
+        let username = 'hexaprime.texting@gmail.com';
+        let password = 'Execution@123.0@##';
 
         // 3. Populate the target input fields
         let emailField = document.querySelector("input[name*='$txtEmail']");
